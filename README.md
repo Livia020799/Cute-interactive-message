@@ -1,5 +1,5 @@
 # Cute-interactive-message
-This is just something I created from @jeycaarce "message" repository, by changing and upgrading a bit the code. 
+This is just something I created from [jeycaarce](https://github.com/jeycaarce) "message" repository, by changing and upgrading a bit the code. 
 
 If you just want to see what happens you need to download all the files in the same folder (on your computer) and then execute the index.html one. 
 
