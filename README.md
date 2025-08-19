@@ -7,7 +7,7 @@ Otherwise, if you want to try and edit the code, I suggest you to use https://on
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You can also create a link dierctly to directly host the static webpage with the animation  on GitHub, mine is https://livia020799.github.io/Cute-interactive-message/ 
+You can also create a link to directly host the static webpage with the animation  on GitHub, mine is https://livia020799.github.io/Cute-interactive-message/ 
 
 Tutorial on how to create the link on GitHub:
 1) Create an account on GitHub
